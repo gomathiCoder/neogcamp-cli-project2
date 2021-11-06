@@ -10,7 +10,7 @@ play the quiz
 - If quiz not started, click on green colour __play button__ at the bottom right corner of the page.
 - Enter your name.
 - Play the quiz. Only if you get high score, you pass on to next level.
-- If you are passed all the levels successfully and managed score high, email us your details with screenshot to update
+- If you are passed all the levels successfully and managed to get top score, email us your details with screenshot to update
 your high score in the game.
 
 Now let us see the details of each and every level.
